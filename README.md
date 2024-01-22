@@ -9,3 +9,8 @@ Foi criado manipulações de palavras e números de forma dinâmica com JavaScri
 Orientação de formas de publicar os projetos por meio da plataforma Github e Vercel;
 Como ativar o responsiveVoice no projeto pelo Javascript.
                  
+O PROJETO 
+
+ Se trata de um game onde precisa chutar números até acertar , neste caso foi colocado números 1 a 10 , mas pode se colocar mais números. 
+ O sistema da dicas , caso tenha colocado ele informa que o número é maior ou menor  e o interessante que conforme for jogando os números não vão se repetindo.
+ Ao acertar o sistema informa a quantidade de vezes que foi feito o chute .
